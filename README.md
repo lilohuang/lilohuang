@@ -19,6 +19,6 @@ A highly optimized Python wrapper for **libjpeg-turbo** (TurboJPEG API).
 
 I am actively involved in the ecosystem of high-performance libraries, with contributions and interests in:
 
-* **GPU Computing:** Contributions to **NVIDIA/cccl** (CUDA Core Compute Libraries), **CuPy** (NumPy/SciPy for GPU), and **RAPIDS rmm**.
-* **Systems Programming:** Experience with **libuv** (asynchronous I/O) and deep-learning performance optimization.
-* **Computer Vision:** Optimizing end-to-end pipelines from raw sensor data to inference-ready tensors.
+* **GPU Computing:** Contributions to [NVIDIA/cccl](https://github.com/NVIDIA/cccl), [CuPy](https://github.com/cupy/cupy), and [RAPIDS rmm](https://github.com/rapidsai/rmm).
+* **Systems Programming:** Experience with [libuv](https://github.com/libuv/libuv) (asynchronous I/O) and deep-learning performance optimization.
+* **Computer Vision:** Optimizing end-to-end pipelines using [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) and custom CUDA kernels.
